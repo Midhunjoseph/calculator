@@ -1,0 +1,38 @@
+.calc-body{
+    width: 476px;
+    height: 523px;
+    background-color: grey;
+    margin-left: 352px;
+    margin-top: 61px;
+}
+.calc-screen{
+    width: 387px;
+    height: 50px;
+    pointer-events: none;
+    margin-left: 38px;
+    margin-top: 47px;
+    background-color: blanchedalmond;
+    border-color: black;
+}
+.calc-buttons{
+    margin-left: 45px;
+    margin-top: 52px;
+}
+.btn{
+    width: 94px;
+    height: 51px;
+    margin-top: 11px;
+    font-size: 19px;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    border-color: black;
+
+}
+
+
+.btn:hover{
+    background-color: brown
+}
+#eql:hover{
+    background-color: rgba(177, 19, 7, 0.979);
+}
